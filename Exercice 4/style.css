@@ -1,0 +1,50 @@
+header {
+    color: white;
+    background-color: #b11313;
+}
+
+nav {
+    float: right;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    margin: -10%;
+    display: flex;
+    list-style: none;
+
+}
+
+.header-bottom {
+    display: flex;
+    background-color: #f1c530;
+}
+
+.petite-antenne {
+    display: flex;
+    background-color: #b11313;
+}
+
+main {
+    color: white;
+}
+
+.saynaxmarvel {
+    display: flex;
+    background-color: #114c92;
+}
+
+.right {
+    float: right;
+}
+
+footer {
+    background-color: #000000;
+}
+
+.header-bottom-super-vilains {
+    background-image: url(../Illustration/img7.png);
+}
